@@ -1,0 +1,26 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-container {
+  display: flex;
+  border: 1px solid grey;
+  border-radius: 15px;
+  flex-direction: column;
+
+}
+
+.score_container {
+    display: flex;
+    border: 1px solid grey;
+    border-radius: 5px;
+    flex-direction: row;
+}
+
+.choice_container {
+    display: flex;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
